@@ -1,0 +1,16 @@
+1. Login page (username + password)
+2. Menu for Teachers
+		a.) Select Class
+			i.) See Students
+			ii.) Search for Students
+			iii.) Introduce Grades
+			iv.) Introduce presence
+		b.) Change Password
+		c,) Change Username
+3. Menu for Students
+		a.) See General Grade
+		b.) See List of Subjects
+			i.) See grades for that Subject
+			ii.) See presence for that subject
+			iii.) See ranking for that subject
+		c.) Change Password
